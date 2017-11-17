@@ -10,3 +10,7 @@ function setBestCustomer(){
 function overwriteBestCustomer(){
   bestCustomer = 'maybe bob';
 }
+const leastFavoriteCustomer = 'Tom Jones'
+function changeLeastFavoriteCustomer(){
+   leastFavoriteCustomer = 'Billy Jones'
+}
