@@ -14,7 +14,7 @@ const leastFavoriteCustomer = 'Tom Jones'
 function changeLeastFavoriteCustomer(){
    leastFavoriteCustomer = 'Billy Jones'
 }
-let favoriteCustomer = 'John Taylor'
+var favoriteCustomer = 'John Taylor'
 function attemptTwoFavoriteCustomers(){
    let favoriteCustomer = 'Brendon Jones';
 }
