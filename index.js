@@ -1,5 +1,5 @@
 // Write your solution in this file!
 var customerName = 'bob'
-function upperCaseCustomerName(window.customerName){
- return customerName;
+function upperCaseCustomerName(customerName){
+ return window.customerName;
 }
