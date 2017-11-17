@@ -17,3 +17,4 @@ function changeLeastFavoriteCustomer(){
 function attemptTwoFavoriteCustomers(){
     favoriteCustomer = 'James';
 }
+let favoriteCustomer = 'Judy'
